@@ -10,5 +10,6 @@ public class GreetingProg {
 		String string = s.nextLine();
 		
 		System.out.print("Pizda Kostyanu " + string + " sposobamy");
+		System.out.println(string + " times a day i get fucking BONK to my head");
 	}
 }
